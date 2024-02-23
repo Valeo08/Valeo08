@@ -51,6 +51,6 @@
 
 <br>
 
-👀 I am constantly researching and informing myself about AI. I am currently interested in machine learning 🦾🤖 and NLP 📖.
+👀 I am constantly researching and informing myself about AI. Currently, I'm interested in machine learning 🦾🤖 and NLP 📖.
 
 
